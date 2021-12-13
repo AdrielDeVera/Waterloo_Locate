@@ -92,6 +92,8 @@ class EiffelDescriptor:
 
 class EiffelMetaClass2(EiffelBaseMetaClass):
     # an implementation of the "eiffel" meta class that uses descriptors
+    
+    # an implementation of the "eiffel" meta class that uses descriptor
 
     make_eiffel_method = EiffelDescriptor
 
